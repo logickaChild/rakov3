@@ -1,7 +1,7 @@
 nav {
     border:5px solid lightblue;
     border-radius: 10px;
-    font-size: 23px;
+    font-size: 33px;
     padding: 5px;
     text-align: center;
     margin: 40px;
@@ -24,7 +24,7 @@ p {
     border-radius: 10px;
     background-color: rgb(126, 200, 230);
     padding: 10px;
-    font-size: 20px;
+    font-size: 30px;
     margin: 40px;
     
 }
@@ -39,7 +39,7 @@ footer p {
     border-radius: 15px;
     background-color: rgb(25, 0, 138);
     padding: 10px;
-    font-size: 20px;
+    font-size: 30px;
     margin: 40px;
     
 }
